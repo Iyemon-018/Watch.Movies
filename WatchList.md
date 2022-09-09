@@ -8,7 +8,6 @@
 - [Coda あいのうた](https://www.amazon.co.jp/gp/video/detail/B0B5KW4RP6/ref=atv_dp_atf_prime_sd_mv_play_t1ADAAAAAA0wr0?autoplay=1&t=0)
 - [初恋](https://www.amazon.co.jp/gp/video/detail/amzn1.dv.gti.5cb98d26-355c-2424-1c20-1fc72b5b1fc6?autoplay=0&ref_=atv_cf_strg_wb)
 - [wonder 君は太陽](https://www.netflix.com/watch/80147986?source=35)
-- [プリデスティネーション](https://www.amazon.co.jp/gp/video/detail/amzn1.dv.gti.98b3e3f3-a51b-404b-a1e7-85f03dd060a1?autoplay=0&ref_=atv_cf_strg_wb)
 - [プロミシング・ヤング・ウーマン](https://www.amazon.co.jp/gp/video/detail/amzn1.dv.gti.3263fae6-deca-416e-a567-ad222b083c7b?autoplay=0&ref_=atv_cf_strg_wb)
 - [パーム・スプリングス](https://www.amazon.co.jp/gp/video/detail/amzn1.dv.gti.8072c46d-554a-4b03-bad1-cd94066f1914?autoplay=0&ref_=atv_cf_strg_wb)
 - [薬の神じゃない！](https://www.netflix.com/watch/81012100?source=35)
@@ -19,3 +18,4 @@
 - [呪詛](https://www.netflix.com/watch/81599888?source=35)
 - [カーター](https://www.netflix.com/watch/81399639?source=35)
 - [デイ・シフト](https://www.netflix.com/watch/81186049?source=35)
+- [プリデスティネーション](https://www.amazon.co.jp/gp/video/detail/amzn1.dv.gti.98b3e3f3-a51b-404b-a1e7-85f03dd060a1?autoplay=0&ref_=atv_cf_strg_wb)
