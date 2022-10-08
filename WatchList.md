@@ -24,3 +24,7 @@
 - [アイ・ケイム・バイ](https://www.netflix.com/title/81477746)
 - [エンド・オブ・ロード](https://www.netflix.com/title/81232463)
 - [ライリー・ノース 復讐の女神](https://www.netflix.com/title/80994127)
+- [セブン](https://www.netflix.com/title/950149)
+- [ザ・ハント](https://www.netflix.com/title/81087735)
+- [怪怪怪怪物！](https://www.netflix.com/title/81032951)
+- [フェーズ6](https://www.netflix.com/title/70122722)
